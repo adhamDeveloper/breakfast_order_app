@@ -1,0 +1,27 @@
+{
+  "HI": "مرحباً",
+  "LIKE_SEARCH": "ما الذي تريد البحث عنه اليوم؟",
+  "FIND_NEW": "إبحث عن دورة جديدة",
+  "HOME": "الرئيسية",
+  "CATEGORIES": "الأقسام",
+  "SETTINGS": "الإعدادات",
+  "NEW_COURSES": "أقسام جديدة",
+  "FEATURED_CATEGORY": "أقسام مميزة",
+  "FEATURED_COURSES": "كورسات مميزة",
+  //
+  "LANGUAGE": "اللغة",
+  "LAST_UPDATE": "التحديث الاخير",
+  "COURSE_BY": "الكورس بواسطة",
+  "RATING": "تقييم",
+  "STUDENTS": "الطلاب",
+  "LECTURE": "المحاضرات",
+  "REQUIREMENTS": "متطلبات",
+  //
+  "NOTIFICATION": "الإشعارات",
+  "NO_NOTIFICATION": "لا يوجد إشعارات",
+  "check_notification": "تم القبض عليك! تحقق مرة أخرى لاحقًا للحصول على إشعار جديد",
+  //
+  "MENU": "القائمة",
+  "ADD_FAVOURITE": "إضافة إلى المفضلة",
+  "FLAG_CONTENT": "الإبلاغ عن محتوى غير لائق",
+}

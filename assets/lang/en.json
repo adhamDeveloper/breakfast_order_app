@@ -1,0 +1,27 @@
+{
+  "HI": "Hi",
+  "LIKE_SEARCH": "What would you like to search today ?",
+  "FIND_NEW": "Find new course",
+  "HOME": "Home",
+  "CATEGORIES": "Categories",
+  "SETTINGS": "Settings",
+  "NEW_COURSES": "New Courses",
+  "FEATURED_CATEGORY": "Featured Categories",
+  "FEATURED_COURSES": "Featured Courses",
+  //
+  "LANGUAGE": "Language",
+  "LAST_UPDATE": "Last Updated",
+  "COURSE_BY": "Course By",
+  "RATING": "Rating",
+  "STUDENT": "Student",
+  "LECTURE": "Lecture",
+  "REQUIREMENTS": "Requirements",
+  //
+  "NOTIFICATION": "Notification",
+  "NO_NOTIFICATION": "No Notification",
+  "check_notification": "You are caught up ! Check back later for new notification",
+  //
+  "MENU": "Menu",
+  "ADD_FAVOURITE": "Add Favourite",
+  "FLAG_CONTENT": "Flag Inappropriate Content",
+}
